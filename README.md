@@ -8,8 +8,10 @@
 - **👯 [简书](https://www.jianshu.com/u/4efd326c5fe2)（筱团）**
 
 ## 私家仓库
-- **😀 [云网盘](https://onedrive-vercel-index-seven-xi.vercel.app/zh-CN/)**
-- **😄 [知识库](https://courserli.github.io/Knowledge-Base/)**
+- **😀 [云网盘](cloud.lilanjun.xyz)**
+- **😄 [个人博客](blog.lilanjun.xyz)**
+- **😆 [个人概述](profile.lilanjun.xyz)**
+- **😁 [知识库](knowledge.lilanjun.xyz)**
 - **🤣 [区块链博客](https://xiaotuan.xlog.app/)**
 
 ## Github ✨
