@@ -1,7 +1,6 @@
 ## 自由的筱团 🔭
 **梦想是成为一个自由的人，希望对一切事物感兴趣~~**
 
-## 共享仓库
 - **⚡ [B 站](https://space.bilibili.com/112870971)（自由的筱团）**
 - **📫 [CSDN](https://blog.csdn.net/CourserLi?type=blog)（CourserLi）**
 - **💬 [博客园](https://www.cnblogs.com/CourserLi/p/15801973.html)（筱团）**
