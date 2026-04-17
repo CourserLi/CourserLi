@@ -5,6 +5,7 @@
 - **📫 [CSDN](https://blog.csdn.net/CourserLi?type=blog)（CourserLi）**
 - **💬 [博客园](https://www.cnblogs.com/CourserLi/p/15801973.html)（筱团）**
 
+PS：密码是大小写+数字+@
 <!--
 **CourserLi/CourserLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
